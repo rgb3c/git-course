@@ -1,2 +1,3 @@
-# git-course
-Git and Github course
+# Git and GitHub course
+
+Crach course for Git 
